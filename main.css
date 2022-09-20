@@ -1,0 +1,16 @@
+#result {
+  background-color: black;
+  color: white;
+  text-align: right;
+  padding:5px;
+}
+
+.button{
+  width: 60px;
+  height: 30px;
+}
+
+.button-wide{
+  width: 125px;
+  height: 30px;
+}
